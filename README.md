@@ -33,7 +33,7 @@ cd "C:\Users\NomeDoComputador\Documents\clonedoprojeto"
 Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: **(dentro da pasta do projeto clonado)**
 
 ```
-> npm install
+ npm install
 ```
 
 Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
@@ -63,7 +63,7 @@ Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir um
 
 ## Autor:
 
-* [**Wanderson A. Timóteo**](https://wanderson.ga)
+* [**Wanderson A. Timóteo**](https://wanderson.tk)
 
 
 ## Licença
